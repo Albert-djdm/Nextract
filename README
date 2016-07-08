@@ -1,0 +1,27 @@
+
+This code originates from the method I used during the diHub Hackaton on text Mining. The goal of this 
+code was to extract the issuer of a set of securties. All those documents are confidential so the 
+example provided cannot be run, on the final test set the code achieved 90% of accuracy.
+
+This is the re-factored version with some simplifications, generalization, corrections
+and improvement and a lot more comments. On the training set, the accuracy rose from 90% to 95%
+with this version. I, however, did not re-test on the final set by lack of time (and now I don't have
+anymore access to the data...).
+
+I intend to further work on this, particularly see if I can automatize the algorithm learning and 
+found new applications... For now, I release it on GitHub for those hoe are interested.
+
+Look at the ipython Issuer_example.ipynb for a example of use.
+
+Read the license before you use it ! 
+For commercial use, please contact me.
+
+All right reserved.
+Author: Albert de Jamblinne de Meux
+         thealbertsmail@gmail.com
+
+All the code is under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.
+
+Have fun !
+Al.
+
